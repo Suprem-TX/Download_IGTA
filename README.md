@@ -42,10 +42,10 @@ cd Script_DW
 ### Cuando descarguemos nuestros vid3os podremos acceder a ellos facilmente
 ## Damos permisos de ejecucion y ejecutamos
 ```bash
-chmod +x Script_TX.py
+chmod +x Script_Igta.py
 ```
 ```bash
-python3 Script_TX.py
+python3 Script_Igta.py
 ```
 # SUSCRIBETE AL CANAL :D
 
