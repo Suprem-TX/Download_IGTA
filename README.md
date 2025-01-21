@@ -1,6 +1,6 @@
 ---
  <P align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa255YXp2OHhva3B4a3B1MmVlZTQxeHdrNDEzMmwweGp2MWh6YTNnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdDqAwu0yr6KC9rXov/giphy.gif" width="260" height="260"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl6a3hha3l6ZGl0Mmg5dTJibGF6dTJqb2xpbzNzd3ppNHJzMWQwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10ToEKrp3s99Fm/giphy.gif" width="260" height="260"/>
 </p>
 <br
 ---
@@ -34,10 +34,10 @@ pip3 install  yt_dlp
 cd /sdcard
 ```
 ```bash
-git clone https://github.com/Suprem-TX/Script_DW.git
+git clone https://github.com/Suprem-TX/Download_IGTA.git
 ```
 ```bash
-cd Script_DW
+cd Download_IGTA
 ```
 ### Cuando descarguemos nuestros vid3os podremos acceder a ellos facilmente
 ## Damos permisos de ejecucion y ejecutamos
